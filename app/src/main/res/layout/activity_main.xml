@@ -88,7 +88,7 @@
                 android:textSize="15.4sp"
                 android:textColor="#a3a3a3"
                 android:lineSpacingExtra="2.6sp"
-                android:text="Model"
+                android:text="@string/model"
                 />
 
         </LinearLayout>
